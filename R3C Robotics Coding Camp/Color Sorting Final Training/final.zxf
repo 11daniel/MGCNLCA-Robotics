@@ -1,0 +1,15 @@
+@27.5|-13|1|-0.4415924|30.41792|88.5|223|
+@27.5|-8|0|-0.2830958|28.64001|88.50001|228|
+@27.5|0|0|0|27.5|88.5|236|
+@27.5|8|0|0.2830958|28.64001|88.50001|244|
+@27.5|13|1|0.4415924|30.41792|88.5|249|
+@0|-16|0|-1.570796|16|61|220|
+@0|0|0|0|0|61|236|
+@0|16|0|1.570796|16|61|252|
+@0|0|1|0|0|0|0|
+@vis_point=True
+@color_point=255,0,0,255
+@robot_type=10
+@ground_name=C:\Program Files (x86)\c_robot_sim\mission06\mission06.PNG
+@trackline_filename=C:\Users\frede\Desktop\Final Training\final.trl
+@include_trackline=False
